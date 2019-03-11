@@ -1,0 +1,16 @@
+/* style.css
+author:you
+date : today
+*/
+
+#top{
+width: 100%;
+border:1px solid blue;
+
+}
+
+.brand{
+    float:left;
+    width: 50%
+    
+}
